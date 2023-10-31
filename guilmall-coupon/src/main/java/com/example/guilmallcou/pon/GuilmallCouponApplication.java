@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GuilmallCouponApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(GuilmallCouponApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(GuilmallCouponApplication.class, args);
+	}
 
 }
